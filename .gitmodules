@@ -1,3 +1,6 @@
 [submodule "hd-wallet-derive"]
 	path = hd-wallet-derive
 	url = https://github.com/dan-da/hd-wallet-derive
+[submodule "wallet/hd-wallet-derive"]
+	path = wallet/hd-wallet-derive
+	url = https://github.com/dan-da/hd-wallet-derive
